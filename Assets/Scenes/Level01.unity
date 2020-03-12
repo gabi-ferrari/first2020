@@ -865,7 +865,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55b52fc8d9042ba4ba2f0ae2c119c13a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  contactRadius: 1.53
+  contactRadius: 1.62
   currentHealth: 0
   stats:
     maxHealth: 100
