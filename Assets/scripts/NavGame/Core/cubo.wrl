@@ -1,0 +1,10 @@
+#VRML V.2 utf8 
+#Desenho de um cubo vermelho 
+
+Shape { 
+     appearance Apearance  {
+         material Material { 
+             diffuseColor 1.0 0.0 0.0 } 
+     } 
+     geometry box { size 2.5 2.5 2.5} 
+} 
